@@ -1,9 +1,9 @@
 Name : M SREE VAISHNAVI
 Company : CODTECH IT SOLUTIONS
-ID :
+ID : CT6WTDS301
 Domain : JAVA
-Duration :
-Mentor :
+Duration : JULY 1OTH 2024 to AUGUST 25th, 2024
+Mentor : 8074194666
 
 OVER VIEW OF THE PROJECT
 project java developer (JD)
